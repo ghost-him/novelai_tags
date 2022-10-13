@@ -1,0 +1,2 @@
+# novelai_tags
+从b站up主 秋葉aaaki（uid:12566101）发布的压缩包中提取出来的tags
